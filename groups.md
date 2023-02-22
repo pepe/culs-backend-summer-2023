@@ -7,3 +7,10 @@
 - I
 
 ---
+# Groups for the project
+
+### Ethiopia's Group
+
+- Ethiopia Gebreselassie
+- Kural Arasu
+- Pankajashan Adithyan
