@@ -15,9 +15,17 @@
 - Kural Arasu
 - Pankajashan Adithyan
 
+### Slavík Group
+
+- Semeradova Tia
+- Safranek Nikola
+- Stvarnik Thomas
+- Kryhin Mykhailo
+- Odynets Vladyslav
 ---
 
 John Marfo
 2. Mikulus Regeczy
 3. Augustine Emeghara
 4. Hossain , sayed shafayet
+5. 
