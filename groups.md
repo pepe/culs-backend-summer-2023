@@ -38,3 +38,11 @@ John Marfo
 - Tegegn Addiskidan
 - Arpana Shanta
 - Md Sahadat Hossain Sagor
+
+### GROUP: Django
+
+Azizbek Mirzaolimov
+ismaili Yassine
+Alali Zeinalabdein
+Shahin Abdelaziz
+Soliman Salama Andrew Moheb
