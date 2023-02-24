@@ -15,6 +15,13 @@
 - Kural Arasu
 - Pankajashan Adithyan
 
+### Slavík Group
+
+- Semeradova Tia
+- Safranek Nikola
+- Stvarnik Thomas
+- Kryhin Mykhailo
+- Odynets Vladyslav
 ---
 
 John Marfo
