@@ -23,11 +23,12 @@
 - Kryhin Mykhailo
 - Odynets Vladyslav
 ---
-
-John Marfo
+### Group:
+1.John Marfo
 2. Mikulus Regeczy
 3. Augustine Emeghara
 4. Hossain , sayed shafayet
+5. Pham Thuy Linh
 
 ---
 ### Group : Play with ChatGPT
