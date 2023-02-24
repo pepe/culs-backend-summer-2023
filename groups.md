@@ -28,4 +28,13 @@ John Marfo
 2. Mikulus Regeczy
 3. Augustine Emeghara
 4. Hossain , sayed shafayet
-5. 
+
+---
+### Group : Play with ChatGPT
+
+- MD Sahin Alam
+- Rana Mohammad Rasel
+- Al Kawsar Majumder
+- Tegegn Addiskidan
+- Arpana Shanta
+- Md Sahadat Hossain Sagor
