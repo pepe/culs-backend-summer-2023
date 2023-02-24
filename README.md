@@ -78,3 +78,4 @@ summer semester 2023.
 - [Mongoose](http://mongoosejs.com)
 - [ChatGPT blurry jpg](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web)
 - [Presentation SW repository](https://git.sr.ht/~pepe/series)
+- [Test](https://docs.google.com/forms/d/e/1FAIpQLSe8sc246WVIDTQF9Skm48lBKg7Maz7wK6qN0KiyvmSvRqjkpg/viewform?usp=sharing)
