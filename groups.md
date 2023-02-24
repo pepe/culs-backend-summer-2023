@@ -38,3 +38,13 @@ John Marfo
 - Tegegn Addiskidan
 - Arpana Shanta
 - Md Sahadat Hossain Sagor
+
+
+### Group : Programming with chatgpt
+- Dhruval Patel
+- Ponmalithazham Amarkishan
+- Almira Kelgenbayeva 
+- Usman Ullah Rehmat Ulah
+- Zhabbarkhan Islam
+- Muhammad Usman
+
